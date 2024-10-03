@@ -1,0 +1,42 @@
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    margin: 20px 0;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+
+.exercice {
+    text-decoration: none;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.exercice:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    margin: 20px 0;
+}

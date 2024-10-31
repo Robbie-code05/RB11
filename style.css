@@ -9,8 +9,9 @@ body {
     padding: 0;
     background-image: url(lofi2.gif);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
+
 
 
 header {
@@ -49,4 +50,14 @@ nav ul li {
 
 footer {
     margin: 20px 0;
+}
+
+.exerciceTP{
+    color: white;
+    text-decoration: none;
+
+}
+
+.exerciceTP:hover{
+    color: mediumblue;
 }
